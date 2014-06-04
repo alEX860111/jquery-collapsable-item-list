@@ -1,0 +1,13 @@
+.main {
+  margin-top: 1em;
+  cursor: pointer;
+  font-weight: bold;
+  display: list-item;
+  list-style-image: url("../images/right.png");
+  margin-left: 1em; }
+
+.sub {
+  margin-left: 1em; }
+
+.open {
+  list-style-image: url("../images/down.png"); }
